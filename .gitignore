@@ -1,0 +1,12 @@
+**/train*
+**/val*
+**/test*
+**/.idea
+**/pytransform/
+.DS_Store
+**/__pycache__
+**/*.pdf
+checker_client.py
+Dockerfile
+
+
