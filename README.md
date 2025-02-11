@@ -79,7 +79,7 @@ where $`N_j`$ is the number of unsafe evaluations and $`h(\cdot)`$ is the sigmoi
 - **Final Score**: 0.863 (ranked 90/273)
 
 ### Visualization
-The algorithm generates ([here](debugging):
+The algorithm generates ([here](debugging)):
 1. Posterior plots of $`f(x)`$ and $`v(x)`$, including uncertainty bounds.
 2. Acquisition function values for each iteration.
 3. Safe and unsafe evaluation regions.
